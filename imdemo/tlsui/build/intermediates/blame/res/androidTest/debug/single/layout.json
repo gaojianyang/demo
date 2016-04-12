@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "D:\\android\\imdemo\\tlsui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\tencent_tls_ui_listitem.xml",
+        "source": "D:\\android\\imdemo\\tlsui\\build\\intermediates\\bundles\\debug\\res\\layout\\tencent_tls_ui_listitem.xml"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\tlsui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\tencent_tls_ui_activity_select_country_code.xml",
+        "source": "D:\\android\\imdemo\\tlsui\\build\\intermediates\\bundles\\debug\\res\\layout\\tencent_tls_ui_activity_select_country_code.xml"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\tlsui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\tencent_tls_ui_activity_host_login.xml",
+        "source": "D:\\android\\imdemo\\tlsui\\build\\intermediates\\bundles\\debug\\res\\layout\\tencent_tls_ui_activity_host_login.xml"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\tlsui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\tencent_tls_ui_activity_img_code.xml",
+        "source": "D:\\android\\imdemo\\tlsui\\build\\intermediates\\bundles\\debug\\res\\layout\\tencent_tls_ui_activity_img_code.xml"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\tlsui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\tencent_tls_ui_item.xml",
+        "source": "D:\\android\\imdemo\\tlsui\\build\\intermediates\\bundles\\debug\\res\\layout\\tencent_tls_ui_item.xml"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\tlsui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\tencent_tls_ui_activity_reset_phone_pwd.xml",
+        "source": "D:\\android\\imdemo\\tlsui\\build\\intermediates\\bundles\\debug\\res\\layout\\tencent_tls_ui_activity_reset_phone_pwd.xml"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\tlsui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\tencent_tls_ui_activity_independent_login.xml",
+        "source": "D:\\android\\imdemo\\tlsui\\build\\intermediates\\bundles\\debug\\res\\layout\\tencent_tls_ui_activity_independent_login.xml"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\tlsui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\tencent_tls_ui_fragment_qqwx.xml",
+        "source": "D:\\android\\imdemo\\tlsui\\build\\intermediates\\bundles\\debug\\res\\layout\\tencent_tls_ui_fragment_qqwx.xml"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\tlsui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\tencent_tls_ui_activity_phone_pwd_login.xml",
+        "source": "D:\\android\\imdemo\\tlsui\\build\\intermediates\\bundles\\debug\\res\\layout\\tencent_tls_ui_activity_phone_pwd_login.xml"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\tlsui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\tencent_tls_ui_dialog.xml",
+        "source": "D:\\android\\imdemo\\tlsui\\build\\intermediates\\bundles\\debug\\res\\layout\\tencent_tls_ui_dialog.xml"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\tlsui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\tencent_tls_ui_activity_independent_register.xml",
+        "source": "D:\\android\\imdemo\\tlsui\\build\\intermediates\\bundles\\debug\\res\\layout\\tencent_tls_ui_activity_independent_register.xml"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\tlsui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\tencent_tls_ui_openaccount.xml",
+        "source": "D:\\android\\imdemo\\tlsui\\build\\intermediates\\bundles\\debug\\res\\layout\\tencent_tls_ui_openaccount.xml"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\tlsui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\tencent_tls_ui_activity_phone_pwd_register.xml",
+        "source": "D:\\android\\imdemo\\tlsui\\build\\intermediates\\bundles\\debug\\res\\layout\\tencent_tls_ui_activity_phone_pwd_register.xml"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\tlsui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\tencent_tls_ui_activity_host_register.xml",
+        "source": "D:\\android\\imdemo\\tlsui\\build\\intermediates\\bundles\\debug\\res\\layout\\tencent_tls_ui_activity_host_register.xml"
+    }
+]

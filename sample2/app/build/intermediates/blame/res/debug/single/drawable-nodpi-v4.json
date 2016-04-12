@@ -1,0 +1,126 @@
+[
+    {
+        "merged": "D:\\android\\sample2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\qav_members_indicator_current.png",
+        "source": "D:\\android\\sample2\\app\\src\\main\\res\\drawable-nodpi\\qav_members_indicator_current.png"
+    },
+    {
+        "merged": "D:\\android\\sample2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\qav_video.png",
+        "source": "D:\\android\\sample2\\app\\src\\main\\res\\drawable-nodpi\\qav_video.png"
+    },
+    {
+        "merged": "D:\\android\\sample2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\qav_gvideo_screen_normal.png",
+        "source": "D:\\android\\sample2\\app\\src\\main\\res\\drawable-nodpi\\qav_gvideo_screen_normal.png"
+    },
+    {
+        "merged": "D:\\android\\sample2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\qav_btn_icon_mute_disable.png",
+        "source": "D:\\android\\sample2\\app\\src\\main\\res\\drawable-nodpi\\qav_btn_icon_mute_disable.png"
+    },
+    {
+        "merged": "D:\\android\\sample2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\qav_gvideo_camera_pressed.png",
+        "source": "D:\\android\\sample2\\app\\src\\main\\res\\drawable-nodpi\\qav_gvideo_camera_pressed.png"
+    },
+    {
+        "merged": "D:\\android\\sample2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\qav_share_movie_press.png",
+        "source": "D:\\android\\sample2\\app\\src\\main\\res\\drawable-nodpi\\qav_share_movie_press.png"
+    },
+    {
+        "merged": "D:\\android\\sample2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\qav_btn_icon_handfree_press_high.png",
+        "source": "D:\\android\\sample2\\app\\src\\main\\res\\drawable-nodpi\\qav_btn_icon_handfree_press_high.png"
+    },
+    {
+        "merged": "D:\\android\\sample2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\qav_btn_icon_mute_normal.png",
+        "source": "D:\\android\\sample2\\app\\src\\main\\res\\drawable-nodpi\\qav_btn_icon_mute_normal.png"
+    },
+    {
+        "merged": "D:\\android\\sample2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\qav_btn_icon_camera_press.png",
+        "source": "D:\\android\\sample2\\app\\src\\main\\res\\drawable-nodpi\\qav_btn_icon_camera_press.png"
+    },
+    {
+        "merged": "D:\\android\\sample2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\qav_more_members_press.png",
+        "source": "D:\\android\\sample2\\app\\src\\main\\res\\drawable-nodpi\\qav_more_members_press.png"
+    },
+    {
+        "merged": "D:\\android\\sample2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\qav_btn_icon_mute_press.png",
+        "source": "D:\\android\\sample2\\app\\src\\main\\res\\drawable-nodpi\\qav_btn_icon_mute_press.png"
+    },
+    {
+        "merged": "D:\\android\\sample2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\qav_btn_icon_camera_disable.png",
+        "source": "D:\\android\\sample2\\app\\src\\main\\res\\drawable-nodpi\\qav_btn_icon_camera_disable.png"
+    },
+    {
+        "merged": "D:\\android\\sample2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\qav_gaudio_bg.jpg",
+        "source": "D:\\android\\sample2\\app\\src\\main\\res\\drawable-nodpi\\qav_gaudio_bg.jpg"
+    },
+    {
+        "merged": "D:\\android\\sample2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\qav_btn_icon_handfree_disable.png",
+        "source": "D:\\android\\sample2\\app\\src\\main\\res\\drawable-nodpi\\qav_btn_icon_handfree_disable.png"
+    },
+    {
+        "merged": "D:\\android\\sample2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\qav_members_indicator.png",
+        "source": "D:\\android\\sample2\\app\\src\\main\\res\\drawable-nodpi\\qav_members_indicator.png"
+    },
+    {
+        "merged": "D:\\android\\sample2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\qav_share_movie_select.png",
+        "source": "D:\\android\\sample2\\app\\src\\main\\res\\drawable-nodpi\\qav_share_movie_select.png"
+    },
+    {
+        "merged": "D:\\android\\sample2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\qav_btn_icon_mute_select.png",
+        "source": "D:\\android\\sample2\\app\\src\\main\\res\\drawable-nodpi\\qav_btn_icon_mute_select.png"
+    },
+    {
+        "merged": "D:\\android\\sample2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\qav_btn_icon_camera_open.png",
+        "source": "D:\\android\\sample2\\app\\src\\main\\res\\drawable-nodpi\\qav_btn_icon_camera_open.png"
+    },
+    {
+        "merged": "D:\\android\\sample2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\qav_share_screen.png",
+        "source": "D:\\android\\sample2\\app\\src\\main\\res\\drawable-nodpi\\qav_share_screen.png"
+    },
+    {
+        "merged": "D:\\android\\sample2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\qav_btn_icon_handfree_open_high.png",
+        "source": "D:\\android\\sample2\\app\\src\\main\\res\\drawable-nodpi\\qav_btn_icon_handfree_open_high.png"
+    },
+    {
+        "merged": "D:\\android\\sample2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\qav_gvideo_screen_pressed.png",
+        "source": "D:\\android\\sample2\\app\\src\\main\\res\\drawable-nodpi\\qav_gvideo_screen_pressed.png"
+    },
+    {
+        "merged": "D:\\android\\sample2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\h001.png",
+        "source": "D:\\android\\sample2\\app\\src\\main\\res\\drawable-nodpi\\h001.png"
+    },
+    {
+        "merged": "D:\\android\\sample2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\qav_gvideo_camera_normal.png",
+        "source": "D:\\android\\sample2\\app\\src\\main\\res\\drawable-nodpi\\qav_gvideo_camera_normal.png"
+    },
+    {
+        "merged": "D:\\android\\sample2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\qav_btn_icon_handfree_close_high.png",
+        "source": "D:\\android\\sample2\\app\\src\\main\\res\\drawable-nodpi\\qav_btn_icon_handfree_close_high.png"
+    },
+    {
+        "merged": "D:\\android\\sample2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\qav_more_members_normal.png",
+        "source": "D:\\android\\sample2\\app\\src\\main\\res\\drawable-nodpi\\qav_more_members_normal.png"
+    },
+    {
+        "merged": "D:\\android\\sample2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\qav_btn_hangup_press.png",
+        "source": "D:\\android\\sample2\\app\\src\\main\\res\\drawable-nodpi\\qav_btn_hangup_press.png"
+    },
+    {
+        "merged": "D:\\android\\sample2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\qav_btn_icon_camera_close.png",
+        "source": "D:\\android\\sample2\\app\\src\\main\\res\\drawable-nodpi\\qav_btn_icon_camera_close.png"
+    },
+    {
+        "merged": "D:\\android\\sample2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\qav_btn_hangup_normal.png",
+        "source": "D:\\android\\sample2\\app\\src\\main\\res\\drawable-nodpi\\qav_btn_hangup_normal.png"
+    },
+    {
+        "merged": "D:\\android\\sample2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\qav_share_movie.png",
+        "source": "D:\\android\\sample2\\app\\src\\main\\res\\drawable-nodpi\\qav_share_movie.png"
+    },
+    {
+        "merged": "D:\\android\\sample2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\qav_gvideo_speaking.png",
+        "source": "D:\\android\\sample2\\app\\src\\main\\res\\drawable-nodpi\\qav_gvideo_speaking.png"
+    },
+    {
+        "merged": "D:\\android\\sample2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\qav_btn_hangup_disable.png",
+        "source": "D:\\android\\sample2\\app\\src\\main\\res\\drawable-nodpi\\qav_btn_hangup_disable.png"
+    }
+]

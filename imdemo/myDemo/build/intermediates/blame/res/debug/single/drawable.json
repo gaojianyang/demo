@@ -1,0 +1,266 @@
+[
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_icon_setting_selector.xml",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\drawable\\tab_icon_setting_selector.xml"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\qav_btn_handfree_high.xml",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\drawable\\qav_btn_handfree_high.xml"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\tencent_tls_ui_qq.png",
+        "source": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\exploded-aar\\imdemo\\tlsui\\unspecified\\res\\drawable\\tencent_tls_ui_qq.png"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\sc_bg_friendsavatar_press.png",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\drawable\\sc_bg_friendsavatar_press.png"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\cm_blue_check_bg.xml",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\drawable\\cm_blue_check_bg.xml"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\tencent_tls_ui_divider.xml",
+        "source": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\exploded-aar\\imdemo\\tlsui\\unspecified\\res\\drawable\\tencent_tls_ui_divider.xml"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\tencent_tls_ui_dialog_bg.xml",
+        "source": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\exploded-aar\\imdemo\\tlsui\\unspecified\\res\\drawable\\tencent_tls_ui_dialog_bg.xml"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\tencent_tls_ui_text_field_clear_btn.png",
+        "source": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\exploded-aar\\imdemo\\tlsui\\unspecified\\res\\drawable\\tencent_tls_ui_text_field_clear_btn.png"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\main_bottom_item_bg.xml",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\drawable\\main_bottom_item_bg.xml"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\tencent_tls_ui_rounded_rectangle.xml",
+        "source": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\exploded-aar\\imdemo\\tlsui\\unspecified\\res\\drawable\\tencent_tls_ui_rounded_rectangle.xml"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\msg_resend.xml",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\drawable\\msg_resend.xml"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\aio_send_btn.xml",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\drawable\\aio_send_btn.xml"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\tencent_tls_ui_arrow_left_blue.png",
+        "source": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\exploded-aar\\imdemo\\tlsui\\unspecified\\res\\drawable\\tencent_tls_ui_arrow_left_blue.png"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\tencent_tls_ui_normal_rectangle.xml",
+        "source": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\exploded-aar\\imdemo\\tlsui\\unspecified\\res\\drawable\\tencent_tls_ui_normal_rectangle.xml"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\tencent_tls_ui_normal_rectangle_pressed.xml",
+        "source": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\exploded-aar\\imdemo\\tlsui\\unspecified\\res\\drawable\\tencent_tls_ui_normal_rectangle_pressed.xml"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\tencent_tls_ui_down_arrow.png",
+        "source": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\exploded-aar\\imdemo\\tlsui\\unspecified\\res\\drawable\\tencent_tls_ui_down_arrow.png"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\qav_btn_mute.xml",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\drawable\\qav_btn_mute.xml"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\aio_friend_bg.xml",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\drawable\\aio_friend_bg.xml"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\pic_backgroud.xml",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\drawable\\pic_backgroud.xml"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\aio_audio_button_down_selector.xml",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\drawable\\aio_audio_button_down_selector.xml"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\img_setting_switch.xml",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\drawable\\img_setting_switch.xml"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\tencent_tls_ui_sina_weibo.png",
+        "source": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\exploded-aar\\imdemo\\tlsui\\unspecified\\res\\drawable\\tencent_tls_ui_sina_weibo.png"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\tencent_tls_ui_rounded_rectangle_deepblue.xml",
+        "source": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\exploded-aar\\imdemo\\tlsui\\unspecified\\res\\drawable\\tencent_tls_ui_rounded_rectangle_deepblue.xml"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\qav_btn_camera.xml",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\drawable\\qav_btn_camera.xml"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\tencent_tls_ui_show_toast_bg.xml",
+        "source": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\exploded-aar\\imdemo\\tlsui\\unspecified\\res\\drawable\\tencent_tls_ui_show_toast_bg.xml"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\aio_audio_button_up_selector.xml",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\drawable\\aio_audio_button_up_selector.xml"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\tencent_tls_ui_dialog_btn.xml",
+        "source": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\exploded-aar\\imdemo\\tlsui\\unspecified\\res\\drawable\\tencent_tls_ui_dialog_btn.xml"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\tencent_tls_ui_dialog_btn_normal.xml",
+        "source": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\exploded-aar\\imdemo\\tlsui\\unspecified\\res\\drawable\\tencent_tls_ui_dialog_btn_normal.xml"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_icon_contact_selector.xml",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\drawable\\tab_icon_contact_selector.xml"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_chat_voice.xml",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\drawable\\btn_chat_voice.xml"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\qav_btn_accept_audio.xml",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\drawable\\qav_btn_accept_audio.xml"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_register_bg.xml",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\drawable\\btn_register_bg.xml"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\aio_user_bg.xml",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\drawable\\aio_user_bg.xml"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\tencent_tls_ui_rounded_rectangle_shadowblue.xml",
+        "source": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\exploded-aar\\imdemo\\tlsui\\unspecified\\res\\drawable\\tencent_tls_ui_rounded_rectangle_shadowblue.xml"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\tencent_tls_ui_wechat.png",
+        "source": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\exploded-aar\\imdemo\\tlsui\\unspecified\\res\\drawable\\tencent_tls_ui_wechat.png"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\top_back.xml",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\drawable\\top_back.xml"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\ok_btn_color.xml",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\drawable\\ok_btn_color.xml"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\qav_btn_accept_video.xml",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\drawable\\qav_btn_accept_video.xml"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\tencent_tls_ui_visitor.png",
+        "source": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\exploded-aar\\imdemo\\tlsui\\unspecified\\res\\drawable\\tencent_tls_ui_visitor.png"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\qav_btn_hangup.xml",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\drawable\\qav_btn_hangup.xml"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\editview_search_new_friend.xml",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\drawable\\editview_search_new_friend.xml"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\recording_hint_bg.xml",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\drawable\\recording_hint_bg.xml"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\back_btn.xml",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\drawable\\back_btn.xml"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_chat_send_msg.xml",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\drawable\\btn_chat_send_msg.xml"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\search_clear.xml",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\drawable\\search_clear.xml"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\aio_keyboard.xml",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\drawable\\aio_keyboard.xml"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_icon_conversation_selector.xml",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\drawable\\tab_icon_conversation_selector.xml"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\tencent_tls_ui_btn_blue_bg.xml",
+        "source": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\exploded-aar\\imdemo\\tlsui\\unspecified\\res\\drawable\\tencent_tls_ui_btn_blue_bg.xml"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\myheader_bg.png",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\drawable\\myheader_bg.png"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\accepted_friend.xml",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\drawable\\accepted_friend.xml"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_gray_bg.xml",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\drawable\\btn_gray_bg.xml"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\tencent_tls_ui_rounded_rectangle_pressed.xml",
+        "source": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\exploded-aar\\imdemo\\tlsui\\unspecified\\res\\drawable\\tencent_tls_ui_rounded_rectangle_pressed.xml"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\aio_voice.xml",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\drawable\\aio_voice.xml"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\chat_avatar_select.xml",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\drawable\\chat_avatar_select.xml"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\tencent_tls_ui_normal_rectangle_normal.xml",
+        "source": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\exploded-aar\\imdemo\\tlsui\\unspecified\\res\\drawable\\tencent_tls_ui_normal_rectangle_normal.xml"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_alert_bg.xml",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\drawable\\btn_alert_bg.xml"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\tencent_tls_ui_rounded_rectangle_normal.xml",
+        "source": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\exploded-aar\\imdemo\\tlsui\\unspecified\\res\\drawable\\tencent_tls_ui_rounded_rectangle_normal.xml"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\aio_fold.xml",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\drawable\\aio_fold.xml"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\tencent_tls_ui_dialog_btn_pressed.xml",
+        "source": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\exploded-aar\\imdemo\\tlsui\\unspecified\\res\\drawable\\tencent_tls_ui_dialog_btn_pressed.xml"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\tencent_tls_ui_dialog_edittext.xml",
+        "source": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\exploded-aar\\imdemo\\tlsui\\unspecified\\res\\drawable\\tencent_tls_ui_dialog_edittext.xml"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\wait_accept_friend.xml",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\drawable\\wait_accept_friend.xml"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\checkbox_bg1.xml",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\drawable\\checkbox_bg1.xml"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\common_background.xml",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\drawable\\common_background.xml"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\tencent_tls_ui_up_arrow.png",
+        "source": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\exploded-aar\\imdemo\\tlsui\\unspecified\\res\\drawable\\tencent_tls_ui_up_arrow.png"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\aio_emoji.xml",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\drawable\\aio_emoji.xml"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\tencent_tls_ui_btn_white_gray_bg.xml",
+        "source": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\exploded-aar\\imdemo\\tlsui\\unspecified\\res\\drawable\\tencent_tls_ui_btn_white_gray_bg.xml"
+    }
+]

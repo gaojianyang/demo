@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\android\\sample2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_launcher.png",
+        "source": "D:\\android\\sample2\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\android\\sample2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\tencent_tls_ui_arrow_left_white.png",
+        "source": "D:\\android\\sample2\\app\\src\\main\\res\\drawable-xxhdpi\\tencent_tls_ui_arrow_left_white.png"
+    },
+    {
+        "merged": "D:\\android\\sample2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\tencent_tls_ui_text_field_clear_btn.png",
+        "source": "D:\\android\\sample2\\app\\src\\main\\res\\drawable-xxhdpi\\tencent_tls_ui_text_field_clear_btn.png"
+    }
+]

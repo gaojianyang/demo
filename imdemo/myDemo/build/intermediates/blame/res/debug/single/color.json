@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\color\\tencent_tls_ui_txt_color.xml",
+        "source": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\exploded-aar\\imdemo\\tlsui\\unspecified\\res\\color\\tencent_tls_ui_txt_color.xml"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\color\\skin_chat_buble_link.xml",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\color\\skin_chat_buble_link.xml"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\color\\skin_input.xml",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\color\\skin_input.xml"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\color\\skin_chat_buble_link_mine.xml",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\color\\skin_chat_buble_link_mine.xml"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\color\\skin_aio_send_button.xml",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\color\\skin_aio_send_button.xml"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\color\\skin_chat_buble.xml",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\color\\skin_chat_buble.xml"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\color\\skin_chat_buble_mine.xml",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\color\\skin_chat_buble_mine.xml"
+    }
+]

@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\add_group1.png",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\drawable-xhdpi\\add_group1.png"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skin_aio_ptt_action_r_1.png",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\drawable-xhdpi\\skin_aio_ptt_action_r_1.png"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\exploded-aar\\imdemo\\tlsui\\unspecified\\res\\drawable-xhdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skin_aio_ptt_action_l_1.png",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\drawable-xhdpi\\skin_aio_ptt_action_l_1.png"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\add_friend.png",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\drawable-xhdpi\\add_friend.png"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skin_aio_ptt_record_user_nor.png",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\drawable-xhdpi\\skin_aio_ptt_record_user_nor.png"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\chat_default_avatar.png",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\drawable-xhdpi\\chat_default_avatar.png"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skin_aio_ptt_action_r_3.png",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\drawable-xhdpi\\skin_aio_ptt_action_r_3.png"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_group.png",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\drawable-xhdpi\\icon_group.png"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\user_icon.png",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\drawable-xhdpi\\user_icon.png"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\open_icon.png",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\drawable-xhdpi\\open_icon.png"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\top_back_left.png",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\drawable-xhdpi\\top_back_left.png"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tencent_tls_ui_text_field_clear_btn.png",
+        "source": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\exploded-aar\\imdemo\\tlsui\\unspecified\\res\\drawable-xhdpi-v4\\tencent_tls_ui_text_field_clear_btn.png"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\system_tips.png",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\drawable-xhdpi\\system_tips.png"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\close_icon.png",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\drawable-xhdpi\\close_icon.png"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skin_aio_ptt_record_friend_nor.png",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\drawable-xhdpi\\skin_aio_ptt_record_friend_nor.png"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\app_icon.png",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\drawable-xhdpi\\app_icon.png"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\add_friend1.png",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\drawable-xhdpi\\add_friend1.png"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\top_back_leftpress.png",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\drawable-xhdpi\\top_back_leftpress.png"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skin_aio_ptt_action_l_3.png",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\drawable-xhdpi\\skin_aio_ptt_action_l_3.png"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\delete_grp_member.png",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\drawable-xhdpi\\delete_grp_member.png"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\create1_group.png",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\drawable-xhdpi\\create1_group.png"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\search_group.png",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\drawable-xhdpi\\search_group.png"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tencent_tls_ui_search_black.png",
+        "source": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\exploded-aar\\imdemo\\tlsui\\unspecified\\res\\drawable-xhdpi-v4\\tencent_tls_ui_search_black.png"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skin_aio_ptt_action_l_2.png",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\drawable-xhdpi\\skin_aio_ptt_action_l_2.png"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skin_aio_ptt_action_r_2.png",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\drawable-xhdpi\\skin_aio_ptt_action_r_2.png"
+    }
+]

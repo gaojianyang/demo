@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\anim\\stop.xml",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\anim\\stop.xml"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\anim\\mystop.xml",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\anim\\mystop.xml"
+    }
+]

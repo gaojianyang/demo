@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "D:\\android\\sample2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tencent_tls_ui_dialog_bg.xml",
+        "source": "D:\\android\\sample2\\app\\src\\main\\res\\drawable\\tencent_tls_ui_dialog_bg.xml"
+    },
+    {
+        "merged": "D:\\android\\sample2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tencent_tls_ui_rounded_rectangle_normal.xml",
+        "source": "D:\\android\\sample2\\app\\src\\main\\res\\drawable\\tencent_tls_ui_rounded_rectangle_normal.xml"
+    },
+    {
+        "merged": "D:\\android\\sample2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tencent_tls_ui_dialog_edittext.xml",
+        "source": "D:\\android\\sample2\\app\\src\\main\\res\\drawable\\tencent_tls_ui_dialog_edittext.xml"
+    },
+    {
+        "merged": "D:\\android\\sample2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\qav_screen_press.xml",
+        "source": "D:\\android\\sample2\\app\\src\\main\\res\\drawable\\qav_screen_press.xml"
+    },
+    {
+        "merged": "D:\\android\\sample2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tencent_tls_ui_up_arrow.png",
+        "source": "D:\\android\\sample2\\app\\src\\main\\res\\drawable\\tencent_tls_ui_up_arrow.png"
+    },
+    {
+        "merged": "D:\\android\\sample2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\qav_btn_handfree_high.xml",
+        "source": "D:\\android\\sample2\\app\\src\\main\\res\\drawable\\qav_btn_handfree_high.xml"
+    },
+    {
+        "merged": "D:\\android\\sample2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\qav_gaudio_share_movie_press.xml",
+        "source": "D:\\android\\sample2\\app\\src\\main\\res\\drawable\\qav_gaudio_share_movie_press.xml"
+    },
+    {
+        "merged": "D:\\android\\sample2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tencent_tls_ui_rounded_rectangle_shadowblue.xml",
+        "source": "D:\\android\\sample2\\app\\src\\main\\res\\drawable\\tencent_tls_ui_rounded_rectangle_shadowblue.xml"
+    },
+    {
+        "merged": "D:\\android\\sample2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tencent_tls_ui_arrow_left_blue.png",
+        "source": "D:\\android\\sample2\\app\\src\\main\\res\\drawable\\tencent_tls_ui_arrow_left_blue.png"
+    },
+    {
+        "merged": "D:\\android\\sample2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tencent_tls_ui_dialog_btn.xml",
+        "source": "D:\\android\\sample2\\app\\src\\main\\res\\drawable\\tencent_tls_ui_dialog_btn.xml"
+    },
+    {
+        "merged": "D:\\android\\sample2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tencent_tls_ui_wechat.png",
+        "source": "D:\\android\\sample2\\app\\src\\main\\res\\drawable\\tencent_tls_ui_wechat.png"
+    },
+    {
+        "merged": "D:\\android\\sample2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\qav_more_members_item.xml",
+        "source": "D:\\android\\sample2\\app\\src\\main\\res\\drawable\\qav_more_members_item.xml"
+    },
+    {
+        "merged": "D:\\android\\sample2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\qav_camera_press.xml",
+        "source": "D:\\android\\sample2\\app\\src\\main\\res\\drawable\\qav_camera_press.xml"
+    },
+    {
+        "merged": "D:\\android\\sample2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\qav_btn_camera.xml",
+        "source": "D:\\android\\sample2\\app\\src\\main\\res\\drawable\\qav_btn_camera.xml"
+    },
+    {
+        "merged": "D:\\android\\sample2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tencent_tls_ui_dialog_btn_pressed.xml",
+        "source": "D:\\android\\sample2\\app\\src\\main\\res\\drawable\\tencent_tls_ui_dialog_btn_pressed.xml"
+    },
+    {
+        "merged": "D:\\android\\sample2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tencent_tls_ui_rounded_rectangle.xml",
+        "source": "D:\\android\\sample2\\app\\src\\main\\res\\drawable\\tencent_tls_ui_rounded_rectangle.xml"
+    },
+    {
+        "merged": "D:\\android\\sample2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tencent_tls_ui_qq.png",
+        "source": "D:\\android\\sample2\\app\\src\\main\\res\\drawable\\tencent_tls_ui_qq.png"
+    },
+    {
+        "merged": "D:\\android\\sample2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\qav_gaudio_indicator_selector.xml",
+        "source": "D:\\android\\sample2\\app\\src\\main\\res\\drawable\\qav_gaudio_indicator_selector.xml"
+    },
+    {
+        "merged": "D:\\android\\sample2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\qav_btn_mute.xml",
+        "source": "D:\\android\\sample2\\app\\src\\main\\res\\drawable\\qav_btn_mute.xml"
+    },
+    {
+        "merged": "D:\\android\\sample2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\qav_btn_hangup.xml",
+        "source": "D:\\android\\sample2\\app\\src\\main\\res\\drawable\\qav_btn_hangup.xml"
+    },
+    {
+        "merged": "D:\\android\\sample2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tencent_tls_ui_rounded_rectangle_deepblue.xml",
+        "source": "D:\\android\\sample2\\app\\src\\main\\res\\drawable\\tencent_tls_ui_rounded_rectangle_deepblue.xml"
+    },
+    {
+        "merged": "D:\\android\\sample2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tencent_tls_ui_btn_white_gray_bg.xml",
+        "source": "D:\\android\\sample2\\app\\src\\main\\res\\drawable\\tencent_tls_ui_btn_white_gray_bg.xml"
+    },
+    {
+        "merged": "D:\\android\\sample2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tencent_tls_ui_rounded_rectangle_pressed.xml",
+        "source": "D:\\android\\sample2\\app\\src\\main\\res\\drawable\\tencent_tls_ui_rounded_rectangle_pressed.xml"
+    },
+    {
+        "merged": "D:\\android\\sample2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tencent_tls_ui_down_arrow.png",
+        "source": "D:\\android\\sample2\\app\\src\\main\\res\\drawable\\tencent_tls_ui_down_arrow.png"
+    },
+    {
+        "merged": "D:\\android\\sample2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tencent_tls_ui_btn_blue_bg.xml",
+        "source": "D:\\android\\sample2\\app\\src\\main\\res\\drawable\\tencent_tls_ui_btn_blue_bg.xml"
+    },
+    {
+        "merged": "D:\\android\\sample2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tencent_tls_ui_dialog_btn_normal.xml",
+        "source": "D:\\android\\sample2\\app\\src\\main\\res\\drawable\\tencent_tls_ui_dialog_btn_normal.xml"
+    }
+]

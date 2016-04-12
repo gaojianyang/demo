@@ -1,0 +1,314 @@
+[
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\layout\\fg_contacts.xml",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\layout\\fg_contacts.xml"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\layout\\contact_group_item.xml",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\layout\\contact_group_item.xml"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\layout\\fg_recent.xml",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\layout\\fg_recent.xml"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\layout\\tencent_tls_ui_activity_phone_pwd_register.xml",
+        "source": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\exploded-aar\\imdemo\\tlsui\\unspecified\\res\\layout\\tencent_tls_ui_activity_phone_pwd_register.xml"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\layout\\fg_setting.xml",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\layout\\fg_setting.xml"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_grouplist.xml",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\layout\\activity_grouplist.xml"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_search_group.xml",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\layout\\activity_search_group.xml"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\layout\\create_group_contact_item.xml",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\layout\\create_group_contact_item.xml"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\layout\\item_face.xml",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\layout\\item_face.xml"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_display_video.xml",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\layout\\activity_display_video.xml"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_edit_group_name.xml",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\layout\\activity_edit_group_name.xml"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\layout\\contacts_header_item.xml",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\layout\\contacts_header_item.xml"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_receive_msg_opt.xml",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\layout\\activity_receive_msg_opt.xml"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_av.xml",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\layout\\activity_av.xml"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_log_level.xml",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\layout\\activity_log_level.xml"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_edit_group_notification.xml",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\layout\\activity_edit_group_notification.xml"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_register_new.xml",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\layout\\activity_register_new.xml"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\layout\\chat_text_menu.xml",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\layout\\chat_text_menu.xml"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\layout\\chat_item_video_left.xml",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\layout\\chat_item_video_left.xml"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\layout\\chat_item_text_right.xml",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\layout\\chat_item_text_right.xml"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\layout\\chat_item_ptt_right.xml",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\layout\\chat_item_ptt_right.xml"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\layout\\tencent_tls_ui_openaccount.xml",
+        "source": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\exploded-aar\\imdemo\\tlsui\\unspecified\\res\\layout\\tencent_tls_ui_openaccount.xml"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\layout\\item_group_member.xml",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\layout\\item_group_member.xml"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\layout\\item_member_manage.xml",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\layout\\item_member_manage.xml"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_group_member_manage.xml",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\layout\\activity_group_member_manage.xml"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_set_silence_time.xml",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\layout\\activity_set_silence_time.xml"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\layout\\tencent_tls_ui_activity_select_country_code.xml",
+        "source": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\exploded-aar\\imdemo\\tlsui\\unspecified\\res\\layout\\tencent_tls_ui_activity_select_country_code.xml"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash.xml",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\layout\\item_new_friend.xml",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\layout\\item_new_friend.xml"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\layout\\tencent_tls_ui_activity_reset_phone_pwd.xml",
+        "source": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\exploded-aar\\imdemo\\tlsui\\unspecified\\res\\layout\\tencent_tls_ui_activity_reset_phone_pwd.xml"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\layout\\chat_item_ptt_left.xml",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\layout\\chat_item_ptt_left.xml"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_user_info.xml",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\layout\\activity_user_info.xml"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\layout\\chat_item_group_tips.xml",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\layout\\chat_item_group_tips.xml"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\layout\\chat_item_file_left.xml",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\layout\\chat_item_file_left.xml"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\layout\\tencent_tls_ui_activity_independent_register.xml",
+        "source": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\exploded-aar\\imdemo\\tlsui\\unspecified\\res\\layout\\tencent_tls_ui_activity_independent_register.xml"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\layout\\recent_item.xml",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\layout\\recent_item.xml"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\layout\\tencent_tls_ui_activity_host_login.xml",
+        "source": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\exploded-aar\\imdemo\\tlsui\\unspecified\\res\\layout\\tencent_tls_ui_activity_host_login.xml"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\layout\\chat_item_pic_left.xml",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\layout\\chat_item_pic_left.xml"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_new_video.xml",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\layout\\activity_new_video.xml"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_chat.xml",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\layout\\activity_chat.xml"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_pass_style.xml",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\layout\\activity_pass_style.xml"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\layout\\photo_preview.xml",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\layout\\photo_preview.xml"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\layout\\tencent_tls_ui_dialog.xml",
+        "source": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\exploded-aar\\imdemo\\tlsui\\unspecified\\res\\layout\\tencent_tls_ui_dialog.xml"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_verify_img.xml",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\layout\\activity_verify_img.xml"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_new_friends.xml",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\layout\\activity_new_friends.xml"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\layout\\tencent_tls_ui_activity_independent_login.xml",
+        "source": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\exploded-aar\\imdemo\\tlsui\\unspecified\\res\\layout\\tencent_tls_ui_activity_independent_login.xml"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_group_join_style.xml",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\layout\\activity_group_join_style.xml"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\layout\\tencent_tls_ui_listitem.xml",
+        "source": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\exploded-aar\\imdemo\\tlsui\\unspecified\\res\\layout\\tencent_tls_ui_listitem.xml"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_group_simple_info.xml",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\layout\\activity_group_simple_info.xml"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_invite_to_group.xml",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\layout\\activity_invite_to_group.xml"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\layout\\search_box.xml",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\layout\\search_box.xml"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\layout\\tencent_tls_ui_activity_img_code.xml",
+        "source": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\exploded-aar\\imdemo\\tlsui\\unspecified\\res\\layout\\tencent_tls_ui_activity_img_code.xml"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\layout\\tencent_tls_ui_fragment_qqwx.xml",
+        "source": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\exploded-aar\\imdemo\\tlsui\\unspecified\\res\\layout\\tencent_tls_ui_fragment_qqwx.xml"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setface.xml",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\layout\\activity_setface.xml"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_group_info.xml",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\layout\\activity_group_info.xml"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_create_group.xml",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\layout\\activity_create_group.xml"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\layout\\tencent_tls_ui_item.xml",
+        "source": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\exploded-aar\\imdemo\\tlsui\\unspecified\\res\\layout\\tencent_tls_ui_item.xml"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\layout\\chat_item_video_right.xml",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\layout\\chat_item_video_right.xml"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\layout\\chat_item_pic_right.xml",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\layout\\chat_item_pic_right.xml"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_register.xml",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\layout\\tencent_tls_ui_activity_phone_pwd_login.xml",
+        "source": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\exploded-aar\\imdemo\\tlsui\\unspecified\\res\\layout\\tencent_tls_ui_activity_phone_pwd_login.xml"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_edit_group_introduce.xml",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\layout\\activity_edit_group_introduce.xml"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_black_list.xml",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\layout\\activity_black_list.xml"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\layout\\item_search_friend.xml",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\layout\\item_search_friend.xml"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\layout\\tencent_tls_ui_activity_host_register.xml",
+        "source": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\exploded-aar\\imdemo\\tlsui\\unspecified\\res\\layout\\tencent_tls_ui_activity_host_register.xml"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\layout\\qav_bottom_bar.xml",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\layout\\qav_bottom_bar.xml"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_edit_nickname.xml",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\layout\\activity_edit_nickname.xml"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\layout\\chat_item_file_right.xml",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\layout\\chat_item_file_right.xml"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\layout\\contacts_item.xml",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\layout\\contacts_item.xml"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add_friend.xml",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\layout\\activity_add_friend.xml"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_display_org_pic.xml",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\layout\\activity_display_org_pic.xml"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add_friend_info.xml",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\layout\\activity_add_friend_info.xml"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\layout\\qav_video_layer_ui.xml",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\layout\\qav_video_layer_ui.xml"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login_new.xml",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\layout\\activity_login_new.xml"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\layout\\chat_item_text_left.xml",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\layout\\chat_item_text_left.xml"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add_group.xml",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\layout\\activity_add_group.xml"
+    }
+]

@@ -1,0 +1,350 @@
+[
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_bg.png",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\drawable-hdpi\\tab_bg.png"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\myheader_bg.png",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\drawable-hdpi\\myheader_bg.png"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\skin_aio_more_nor.png",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\drawable-hdpi\\skin_aio_more_nor.png"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\skin_aio_voice_nor.png",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\drawable-hdpi\\skin_aio_voice_nor.png"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chat_item_file.png",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\drawable-hdpi\\chat_item_file.png"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\title_bar.9.png",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\drawable-hdpi\\title_bar.9.png"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\qav_btn_icon_mute_select.png",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\drawable-hdpi\\qav_btn_icon_mute_select.png"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\group.png",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\drawable-hdpi\\group.png"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\qav_btn_icon_camera_open.png",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\drawable-hdpi\\qav_btn_icon_camera_open.png"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bottom_bar.png",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\drawable-hdpi\\bottom_bar.png"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\qb_tenpay_del.png",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\drawable-hdpi\\qb_tenpay_del.png"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\qav_btn_accept_audio_press.png",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\drawable-hdpi\\qav_btn_accept_audio_press.png"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\qav_gaudio_bg.jpg",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\drawable-hdpi\\qav_gaudio_bg.jpg"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\qav_btn_icon_camera_disable.png",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\drawable-hdpi\\qav_btn_icon_camera_disable.png"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\qav_btn_icon_handfree_close_high.png",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\drawable-hdpi\\qav_btn_icon_handfree_close_high.png"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\skin_qz_icon_face_click.png",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\drawable-hdpi\\skin_qz_icon_face_click.png"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\skin_aio_send_button_inactive.png",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\drawable-hdpi\\skin_aio_send_button_inactive.png"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\skin_aio_voice_pressed.png",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\drawable-hdpi\\skin_aio_voice_pressed.png"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cm_blue_check_checked.png",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\drawable-hdpi\\cm_blue_check_checked.png"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\skin_new_msg1.png",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\drawable-hdpi\\skin_new_msg1.png"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\checkbox_unselect.png",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\drawable-hdpi\\checkbox_unselect.png"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\qav_btn_icon_mute_press.png",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\drawable-hdpi\\qav_btn_icon_mute_press.png"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\qav_btn_hangup_press.png",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\drawable-hdpi\\qav_btn_hangup_press.png"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\skin_aio_send_button_inactive_pressed.png",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\drawable-hdpi\\skin_aio_send_button_inactive_pressed.png"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\qav_btn_icon_handfree_press_high.png",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\drawable-hdpi\\qav_btn_icon_handfree_press_high.png"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\qav_btn_icon_camera_press.png",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\drawable-hdpi\\qav_btn_icon_camera_press.png"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\text_select_handle_middle.png",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\drawable-hdpi\\text_select_handle_middle.png"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\qav_btn_hangup_normal.png",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\drawable-hdpi\\qav_btn_hangup_normal.png"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\qav_btn_accept_audio_disable.png",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\drawable-hdpi\\qav_btn_accept_audio_disable.png"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\main_bottom_bg1.png",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\drawable-hdpi\\main_bottom_bg1.png"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\skin_qz_icon_face_nor.png",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\drawable-hdpi\\skin_qz_icon_face_nor.png"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\skin_aio_input_bar_bg.9.png",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\drawable-hdpi\\skin_aio_input_bar_bg.9.png"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chat_send_voice_small.png",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\drawable-hdpi\\chat_send_voice_small.png"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\skin_aio_arrowup_nor.png",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\drawable-hdpi\\skin_aio_arrowup_nor.png"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\qav_btn_icon_handfree_disable.png",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\drawable-hdpi\\qav_btn_icon_handfree_disable.png"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\skin_aio_user_bubble_pressed.9.png",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\drawable-hdpi\\skin_aio_user_bubble_pressed.9.png"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\qav_btn_accept_video_disable.png",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\drawable-hdpi\\qav_btn_accept_video_disable.png"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\resend_normal.png",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\drawable-hdpi\\resend_normal.png"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\back_click_pressed.png",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\drawable-hdpi\\back_click_pressed.png"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\group_more.png",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\drawable-hdpi\\group_more.png"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tencent_tls_ui_text_field_clear_btn.png",
+        "source": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\exploded-aar\\imdemo\\tlsui\\unspecified\\res\\drawable-hdpi-v4\\tencent_tls_ui_text_field_clear_btn.png"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\skin_aio_send_button_pressed.9.png",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\drawable-hdpi\\skin_aio_send_button_pressed.9.png"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\qav_btn_accept_video_normal.png",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\drawable-hdpi\\qav_btn_accept_video_normal.png"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\checkbox_unselect_press.png",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\drawable-hdpi\\checkbox_unselect_press.png"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sc_bg_friendsavatar_press.png",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\drawable-hdpi\\sc_bg_friendsavatar_press.png"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\qav_btn_icon_camera_close.png",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\drawable-hdpi\\qav_btn_icon_camera_close.png"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\search_clear_pressed.png",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\drawable-hdpi\\search_clear_pressed.png"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chat_send_voice_big.jpg",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\drawable-hdpi\\chat_send_voice_big.jpg"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\defaultpic.png",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\drawable-hdpi\\defaultpic.png"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cm_blue_check_uncheck.png",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\drawable-hdpi\\cm_blue_check_uncheck.png"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\skin_aio_arrowdown_press.png",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\drawable-hdpi\\skin_aio_arrowdown_press.png"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chat_tool_send_file.png",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\drawable-hdpi\\chat_tool_send_file.png"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\skin_aio_send_button_disabled.9.png",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\drawable-hdpi\\skin_aio_send_button_disabled.9.png"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\qav_btn_hangup_disable.png",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\drawable-hdpi\\qav_btn_hangup_disable.png"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\skin_aio_more_pressed.png",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\drawable-hdpi\\skin_aio_more_pressed.png"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tencent_tls_ui_search_black.png",
+        "source": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\exploded-aar\\imdemo\\tlsui\\unspecified\\res\\drawable-hdpi-v4\\tencent_tls_ui_search_black.png"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dialog_bg.9.png",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\drawable-hdpi\\dialog_bg.9.png"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\skin_aio_friend_bubble_pressed.9.png",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\drawable-hdpi\\skin_aio_friend_bubble_pressed.9.png"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\skin_aio_user_bubble_nor.9.png",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\drawable-hdpi\\skin_aio_user_bubble_nor.9.png"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\checkbox_selected.png",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\drawable-hdpi\\checkbox_selected.png"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\back_click.png",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\drawable-hdpi\\back_click.png"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\qav_btn_accept_audio_normal.png",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\drawable-hdpi\\qav_btn_accept_audio_normal.png"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chat_tool_video.png",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\drawable-hdpi\\chat_tool_video.png"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\checkbox_selected_press.png",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\drawable-hdpi\\checkbox_selected_press.png"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\search_clear.png",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\drawable-hdpi\\search_clear.png"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\skin_aio_keyboard_pressed.png",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\drawable-hdpi\\skin_aio_keyboard_pressed.png"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\skin_aio_send_button_normal.9.png",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\drawable-hdpi\\skin_aio_send_button_normal.9.png"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\skin_aio_arrowdown_nor.png",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\drawable-hdpi\\skin_aio_arrowdown_nor.png"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\resend_press.png",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\drawable-hdpi\\resend_press.png"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\skin_aio_friend_bubble_nor.9.png",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\drawable-hdpi\\skin_aio_friend_bubble_nor.9.png"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\qav_btn_accept_video_press.png",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\drawable-hdpi\\qav_btn_accept_video_press.png"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\skin_aio_input_bg.9.png",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\drawable-hdpi\\skin_aio_input_bg.9.png"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chat_tool_photo.png",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\drawable-hdpi\\chat_tool_photo.png"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\new_friend11.png",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\drawable-hdpi\\new_friend11.png"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\skin_aio_arrowup_press.png",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\drawable-hdpi\\skin_aio_arrowup_press.png"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\recent_unread.png",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\drawable-hdpi\\recent_unread.png"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\qav_btn_icon_handfree_open_high.png",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\drawable-hdpi\\qav_btn_icon_handfree_open_high.png"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\skin_aio_keyboard_nor.png",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\drawable-hdpi\\skin_aio_keyboard_nor.png"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chat_tool_camera.png",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\drawable-hdpi\\chat_tool_camera.png"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\skin_new_msg.9.png",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\drawable-hdpi\\skin_new_msg.9.png"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\search.png",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\drawable-hdpi\\search.png"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\qav_btn_icon_mute_normal.png",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\drawable-hdpi\\qav_btn_icon_mute_normal.png"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\qav_gvideo_camera_normal.png",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\drawable-hdpi\\qav_gvideo_camera_normal.png"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\skin_unread.png",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\drawable-hdpi\\skin_unread.png"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\qav_btn_icon_mute_disable.png",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\drawable-hdpi\\qav_btn_icon_mute_disable.png"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\systemmsg_unread.png",
+        "source": "D:\\android\\imdemo\\myDemo\\src\\main\\res\\drawable-hdpi\\systemmsg_unread.png"
+    }
+]

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\android\imdemo\myDemo\libs\open_sdk.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9e2c4b8c07d6cfc4de7f7f65251971e0e1025bf1">
+        <dex dex="D:\android\imdemo\myDemo\build\intermediates\pre-dexed\debug\open_sdk_ff79d9268b602d73bc6b9d15c3356fedbf73664a.jar" />
+    </item>
+    <item
+        jar="D:\android\imdemo\myDemo\build\intermediates\exploded-aar\imdemo\tlsui\unspecified\jars\libs\tls_sdk.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ef9ec851af6ffcbe564023b4ac31a56d01baa039">
+        <dex dex="D:\android\imdemo\myDemo\build\intermediates\pre-dexed\debug\tls_sdk_f596b5bc24fd09a1788fe9dd4f6cf8eae3955552.jar" />
+    </item>
+    <item
+        jar="D:\android\imdemo\myDemo\build\intermediates\exploded-aar\imdemo\tlsui\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4a9990a715266c28f152c58530856357a4b06595">
+        <dex dex="D:\android\imdemo\myDemo\build\intermediates\pre-dexed\debug\imdemo-tlsui-unspecified_80c026535acc6cb4b0943bd1cb29a3508ec3ac6b.jar" />
+    </item>
+    <item
+        jar="D:\android\imdemo\myDemo\build\intermediates\exploded-aar\imdemo\tlsui\unspecified\jars\libs\mta-sdk-1.6.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e62fce182c3083dcce3ab533b58fc0aaf91949dd">
+        <dex dex="D:\android\imdemo\myDemo\build\intermediates\pre-dexed\debug\mta-sdk-1.6.2_927a60912dd6b7af00b127f12ac6ffc724df3238.jar" />
+    </item>
+    <item
+        jar="D:\android\imdemo\myDemo\build\intermediates\exploded-aar\imdemo\tlsui\unspecified\jars\libs\open_sdk.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1a91b6e5b6ef57441461acbbc6de2902bc6116d4">
+        <dex dex="D:\android\imdemo\myDemo\build\intermediates\pre-dexed\debug\open_sdk_a0069193395c9a9d5150e9cb5ff51e39249a1a2a.jar" />
+    </item>
+    <item
+        jar="D:\android\imdemo\myDemo\libs\eup_1.9.2__allproguad_rqdp.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="dc2a82e6063ab032c96bacc96b0bd8dc929da9ab">
+        <dex dex="D:\android\imdemo\myDemo\build\intermediates\pre-dexed\debug\eup_1.9.2__allproguad_rqdp_4d125dd3d3adb3b1f67cd0f2424a5f9dabc9a7ca.jar" />
+    </item>
+    <item
+        jar="D:\android\imdemo\myDemo\libs\bugly_1.2.8_imsdk_release.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b7cda4b61b114dd9684be56309411b5eb251b611">
+        <dex dex="D:\android\imdemo\myDemo\build\intermediates\pre-dexed\debug\bugly_1.2.8_imsdk_release_693f884793fe381ee1037cdd26f815f9cad2a9b2.jar" />
+    </item>
+    <item
+        jar="D:\android\imdemo\myDemo\build\intermediates\exploded-aar\imdemo\tlsui\unspecified\jars\libs\libammsdk.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="022e88902cd98486a5a07b4eefa256b7e258ab55">
+        <dex dex="D:\android\imdemo\myDemo\build\intermediates\pre-dexed\debug\libammsdk_98c5acd9f1721294252cc68e80f94ddefb7e8cfc.jar" />
+    </item>
+    <item
+        jar="D:\android\imdemo\myDemo\libs\wup-1.0.0-SNAPSHOT.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="dd8fa9304e376adaf936c3db097240d2efcb116f">
+        <dex dex="D:\android\imdemo\myDemo\build\intermediates\pre-dexed\debug\wup-1.0.0-SNAPSHOT_3cbecf5b3a8aad2eef538baac64c50ce70c09fbd.jar" />
+    </item>
+    <item
+        jar="D:\android\imdemo\myDemo\build\intermediates\exploded-aar\imdemo\tlsui\unspecified\jars\libs\weiboSDKCore_3.1.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2d05ce6ec1132459b33052f8e52f739e169771a2">
+        <dex dex="D:\android\imdemo\myDemo\build\intermediates\pre-dexed\debug\weiboSDKCore_3.1.2_b5dc95765317212f60c4cb2c97d28ed4c7fa2b75.jar" />
+    </item>
+    <item
+        jar="D:\android\imdemo\myDemo\build\intermediates\exploded-aar\imdemo\tlsui\unspecified\jars\libs\android-support-v4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e22635b12a40743b78445adf24290d78e81597c9">
+        <dex dex="D:\android\imdemo\myDemo\build\intermediates\pre-dexed\debug\android-support-v4_098c852964cadf3ba1c9cf2f2bd319922b55b9fd.jar" />
+    </item>
+    <item
+        jar="D:\android\imdemo\myDemo\libs\beacon_android_v1.9.9.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="bfb018e8073e59236f150fbf261e184996ee7abc">
+        <dex dex="D:\android\imdemo\myDemo\build\intermediates\pre-dexed\debug\beacon_android_v1.9.9_e556e803545308ed94fe98446f5198e46de1c2cd.jar" />
+    </item>
+    <item
+        jar="D:\android\imdemo\myDemo\libs\mta-sdk-1.6.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c184c69f43b1fe46390f7123717c65bd844bccb6">
+        <dex dex="D:\android\imdemo\myDemo\build\intermediates\pre-dexed\debug\mta-sdk-1.6.2_5aae92ba845ec5852fb933323ea1bb44de1d28b0.jar" />
+    </item>
+    <item
+        jar="D:\android\imdemo\myDemo\libs\imsdk.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c38c400726e492134bf79b970bce475e50cdfdd3">
+        <dex dex="D:\android\imdemo\myDemo\build\intermediates\pre-dexed\debug\imsdk_36ce9033434b5dcc7f28ed4d30f1a186d579eb9a.jar" />
+    </item>
+    <item
+        jar="D:\android\imdemo\myDemo\libs\libammsdk.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="47f4993168154fa73377d7470b9f6887d48a8023">
+        <dex dex="D:\android\imdemo\myDemo\build\intermediates\pre-dexed\debug\libammsdk_c2c0c4c6c193596b7b445f049bebf75db4b6d41c.jar" />
+    </item>
+    <item
+        jar="D:\android\imdemo\myDemo\libs\wlogin_sdk.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3bc90c8e02e6a053760b2589b9b9d7a10db3f404">
+        <dex dex="D:\android\imdemo\myDemo\build\intermediates\pre-dexed\debug\wlogin_sdk_b8584bad77e2f868ebb91f124cbf97297d344430.jar" />
+    </item>
+    <item
+        jar="D:\android\imdemo\myDemo\libs\mobilepb.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a5e62566e5023a4497edcb883324e82771c8c9fb">
+        <dex dex="D:\android\imdemo\myDemo\build\intermediates\pre-dexed\debug\mobilepb_95dee5c949d7f39b3fe20b3e2a042da8754bd267.jar" />
+    </item>
+    <item
+        jar="D:\android\imdemo\myDemo\build\intermediates\exploded-aar\imdemo\tlsui\unspecified\jars\libs\qalsdk.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3939d5fb159a57f83cf9f2717a3d15230e28237c">
+        <dex dex="D:\android\imdemo\myDemo\build\intermediates\pre-dexed\debug\qalsdk_19473b4693087c91de3cd0e79ea2a2c3ff1dc458.jar" />
+    </item>
+
+</items>

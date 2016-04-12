@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\android\\sample2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\stream_set.xml",
+        "source": "D:\\android\\sample2\\app\\src\\main\\res\\menu\\stream_set.xml"
+    },
+    {
+        "merged": "D:\\android\\sample2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "D:\\android\\sample2\\app\\src\\main\\res\\menu\\main.xml"
+    }
+]

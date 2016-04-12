@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "D:\\android\\sample2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\add_new_qq_activity.xml",
+        "source": "D:\\android\\sample2\\app\\src\\main\\res\\layout\\add_new_qq_activity.xml"
+    },
+    {
+        "merged": "D:\\android\\sample2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\qav_video_layer_ui.xml",
+        "source": "D:\\android\\sample2\\app\\src\\main\\res\\layout\\qav_video_layer_ui.xml"
+    },
+    {
+        "merged": "D:\\android\\sample2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tencent_tls_ui_activity_phone_pwd_login.xml",
+        "source": "D:\\android\\sample2\\app\\src\\main\\res\\layout\\tencent_tls_ui_activity_phone_pwd_login.xml"
+    },
+    {
+        "merged": "D:\\android\\sample2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tencent_tls_ui_activity_reset_phone_pwd.xml",
+        "source": "D:\\android\\sample2\\app\\src\\main\\res\\layout\\tencent_tls_ui_activity_reset_phone_pwd.xml"
+    },
+    {
+        "merged": "D:\\android\\sample2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\av_activity.xml",
+        "source": "D:\\android\\sample2\\app\\src\\main\\res\\layout\\av_activity.xml"
+    },
+    {
+        "merged": "D:\\android\\sample2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tencent_tls_ui_item.xml",
+        "source": "D:\\android\\sample2\\app\\src\\main\\res\\layout\\tencent_tls_ui_item.xml"
+    },
+    {
+        "merged": "D:\\android\\sample2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\stream_set_activity.xml",
+        "source": "D:\\android\\sample2\\app\\src\\main\\res\\layout\\stream_set_activity.xml"
+    },
+    {
+        "merged": "D:\\android\\sample2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\qav_gaudio_item.xml",
+        "source": "D:\\android\\sample2\\app\\src\\main\\res\\layout\\qav_gaudio_item.xml"
+    },
+    {
+        "merged": "D:\\android\\sample2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\modify_appid_uid_activity.xml",
+        "source": "D:\\android\\sample2\\app\\src\\main\\res\\layout\\modify_appid_uid_activity.xml"
+    },
+    {
+        "merged": "D:\\android\\sample2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tencent_tls_ui_activity_host_register.xml",
+        "source": "D:\\android\\sample2\\app\\src\\main\\res\\layout\\tencent_tls_ui_activity_host_register.xml"
+    },
+    {
+        "merged": "D:\\android\\sample2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tencent_tls_ui_activity_phone_pwd_register.xml",
+        "source": "D:\\android\\sample2\\app\\src\\main\\res\\layout\\tencent_tls_ui_activity_phone_pwd_register.xml"
+    },
+    {
+        "merged": "D:\\android\\sample2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tencent_tls_ui_activity_independent_register.xml",
+        "source": "D:\\android\\sample2\\app\\src\\main\\res\\layout\\tencent_tls_ui_activity_independent_register.xml"
+    },
+    {
+        "merged": "D:\\android\\sample2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tencent_tls_ui_activity_img_code.xml",
+        "source": "D:\\android\\sample2\\app\\src\\main\\res\\layout\\tencent_tls_ui_activity_img_code.xml"
+    },
+    {
+        "merged": "D:\\android\\sample2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tencent_tls_ui_activity_host_login.xml",
+        "source": "D:\\android\\sample2\\app\\src\\main\\res\\layout\\tencent_tls_ui_activity_host_login.xml"
+    },
+    {
+        "merged": "D:\\android\\sample2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\qav_bottom_bar.xml",
+        "source": "D:\\android\\sample2\\app\\src\\main\\res\\layout\\qav_bottom_bar.xml"
+    },
+    {
+        "merged": "D:\\android\\sample2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\qav_multi_video_members_control_ui.xml",
+        "source": "D:\\android\\sample2\\app\\src\\main\\res\\layout\\qav_multi_video_members_control_ui.xml"
+    },
+    {
+        "merged": "D:\\android\\sample2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tencent_tls_ui_activity_user_sig.xml",
+        "source": "D:\\android\\sample2\\app\\src\\main\\res\\layout\\tencent_tls_ui_activity_user_sig.xml"
+    },
+    {
+        "merged": "D:\\android\\sample2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tencent_tls_ui_activity_independent_login.xml",
+        "source": "D:\\android\\sample2\\app\\src\\main\\res\\layout\\tencent_tls_ui_activity_independent_login.xml"
+    },
+    {
+        "merged": "D:\\android\\sample2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tencent_tls_ui_dialog.xml",
+        "source": "D:\\android\\sample2\\app\\src\\main\\res\\layout\\tencent_tls_ui_dialog.xml"
+    },
+    {
+        "merged": "D:\\android\\sample2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\create_room_activity.xml",
+        "source": "D:\\android\\sample2\\app\\src\\main\\res\\layout\\create_room_activity.xml"
+    }
+]

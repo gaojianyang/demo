@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\tencent_tls_ui_search_black.png",
+        "source": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\exploded-aar\\imdemo\\tlsui\\unspecified\\res\\drawable-xxxhdpi-v4\\tencent_tls_ui_search_black.png"
+    },
+    {
+        "merged": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\tencent_tls_ui_text_field_clear_btn.png",
+        "source": "D:\\android\\imdemo\\myDemo\\build\\intermediates\\exploded-aar\\imdemo\\tlsui\\unspecified\\res\\drawable-xxxhdpi-v4\\tencent_tls_ui_text_field_clear_btn.png"
+    }
+]
